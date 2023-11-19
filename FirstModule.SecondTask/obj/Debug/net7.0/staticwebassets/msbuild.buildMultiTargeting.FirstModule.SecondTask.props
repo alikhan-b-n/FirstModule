@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FirstModule.SecondTask.props" />
+</Project>
